@@ -1,1 +1,1 @@
-# ddp_proj_app
+Files of the application for the DevDataProd assignment
